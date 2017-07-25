@@ -14,6 +14,11 @@
 * Blockchain Stack Overview: http://joel.mn/post/103546215249/the-blockchain-application-stack
 * Research Perspectives and Challenges: http://www.jbonneau.com/doc/BMCNKF15-IEEESP-bitcoin.pdf
 * Proof of Work: http://www.ariannasimpson.com/blog/network-security-and-proof-of-work-do-we-need-an-alternative
+* Can Bitcoin be used for good ? (Chelsea Barabas + Ethan Zuckerman): https://www.theatlantic.com/technology/archive/2016/04/bitcoin-hype/477141/
+* How The Blockchain Can Unshackle Us (Jalak Jobanputra): http://thebarefootvc.com/2016/04/14/936/
+* Programmable Blockchains in Context: Ethereum’s Future (Vinay Gupta): https://media.consensys.net/programmable-blockchains-in-context-ethereum-s-future-cd8451eb421e
+* Why the Blockchain Matters (Reid Hoffman): http://www.wired.co.uk/article/bitcoin-reid-hoffman
+* Why Bitcoin Matters (Marc Andreessen): https://dealbook.nytimes.com/2014/01/21/why-bitcoin-matters/?_r=0
 * Blockchain Revolution: http://blockchain-revolution.com/
 * Real-time Data: https://blockchain.info/charts/
 
@@ -40,4 +45,5 @@
 
 * Eugene's wiki: https://github.com/researchsetup/researchsetup.github.io/wiki
 
-xxx
+
+
